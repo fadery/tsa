@@ -1,0 +1,21 @@
+component short name,Description,function short name,Description
+io,I/O,go,Gap Offset
+or,Orion,bt,Bracket Offset
+lo,Logo,io,Inside Offset
+aw,AW,oo,Outside Offset
+md,Mandrel,xy,X/Y
+ft,Foot,flt,Flatness Thk
+aj,AJ,rsis,Resistence
+rc,RC,clgl,Color Gloss-TC
+eq,Equator,ldg,Landing
+rs,RS,thk,Thickness
+ch,Clutch,rsha,Inspection and reshape
+mg,Magnet,pp,pp
+,,ap,ap
+,,br,Belly Rub
+,,kb,KB
+,,pf,Polarity and flux density test
+,,f,Flux
+,,f2,Flex cable 2PT
+,,f9,Flex cable 9PT
+,,c2,Fixture for MCU(Type C2)
